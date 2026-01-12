@@ -19,7 +19,7 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 * **Minimal Criterion Coevolution: A New Approach to Open-Ended Search** <br>
 *Jonathan C. Brant, Kenneth O. Stanley* <br>
-GECCO, 2017. [[Paper]](https://eplex.cs.ucf.edu/papers/brant_gecco17.pdf) [[Code]](https://github.com/jbrant/MinimalCriterionCoevolution)
+GECCO, 2017. [[Paper]](https://dl.acm.org/doi/10.1145/3071178.3071186) [[Code]](https://github.com/jbrant/MinimalCriterionCoevolution)
 
 * **Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions** <br>
 *Rui Wang, Joel Lehman, Jeff Clune, Kenneth O. Stanley* <br>
